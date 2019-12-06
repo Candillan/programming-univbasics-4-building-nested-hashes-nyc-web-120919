@@ -26,7 +26,7 @@ def monopoly_with_third_tier
       key1: "stuff",
       key2: "things",
       key3: "filler",
-      key4: "content",
+      key4: "content"
     }
     }
   }
