@@ -30,9 +30,7 @@ def monopoly_with_third_tier
         four_pieces_owned: 200
       },
       names: newest_hash = {
-        reading_railroad: too_many_hashes = {
-          
-        },
+        reading_railroad: too_many_hashes = Hash.new,
         key2: "why",
         key3: "so many",
         key4: "keys"
