@@ -26,7 +26,7 @@ def monopoly_with_third_tier
       rent_in_dollars: newer_hash = {
         one_piece_owned: 25,
         two_pieces_owned: 50,
-        key3: "filler",
+        three_pieces_owned: 100,
         key4: "content"
       },
       names: newest_hash = {
