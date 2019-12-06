@@ -22,7 +22,12 @@ def monopoly_with_third_tier
   # complexity.
   hash = {railroads: new_hash = {
     pieces: 4,
-    rent_in_dollars: "test"
+    rent_in_dollars: newer_hash = {
+      key1: "stuff",
+      key2: "things",
+      key3: "filler",
+      key4: "content",
+    }
     }
   }
 end
