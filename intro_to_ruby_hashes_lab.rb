@@ -28,6 +28,7 @@ def monopoly_with_third_tier
       key3: "filler",
       key4: "content"
     }
+    names: ""
     }
   }
 end
