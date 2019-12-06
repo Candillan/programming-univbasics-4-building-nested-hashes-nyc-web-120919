@@ -28,7 +28,12 @@ def monopoly_with_third_tier
       key3: "filler",
       key4: "content"
     },
-    names: ""
+    names: newest_hash = {
+      key1: "dude",
+      key2: "why",
+      key3: "so many",
+      key4: "keys"
+    }
     }
   }
 end
