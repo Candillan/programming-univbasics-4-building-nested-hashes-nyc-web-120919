@@ -33,7 +33,7 @@ def monopoly_with_third_tier
         reading_railroad: too_many_hashes = Hash.new,
         pennsylvania_railroad: but_for_why = Hash.new,
         b_and_o_railroad: so_many = Hash.new,
-        key4: "keys"
+        shortline_railroad: hashes = Hash.new
       }
     }
   }
