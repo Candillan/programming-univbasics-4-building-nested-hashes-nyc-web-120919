@@ -32,7 +32,7 @@ def monopoly_with_third_tier
       names: newest_hash = {
         reading_railroad: too_many_hashes = Hash.new,
         pennsylvania_railroad: but_for_why = Hash.new,
-        key3: "so many",
+        b_and_o_railroad: so_many = Hash.new,
         key4: "keys"
       }
     }
